@@ -22,7 +22,7 @@ public class GeckoDriver {
 
         //  System.setProperty("webdriver.gecko.driver", "Downloads/geckodriver.exe");//
         baseUrl = "https://outlook.office.com/mail/";
-        nodeURL = "http://10.171.97.175:5577/wd/hub";
+        nodeURL = "http://10.171.97.175:4444/wd/hub";
         //URL grid_url = new URL("http://10.171.97.175:4444/wd/hub");
         //driver = new RemoteWebDriver(new URL("http://10.171.97.175:4444/wd/hub"),desc);
         //driver = new ChromeDriver();
